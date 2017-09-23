@@ -2,11 +2,7 @@
 Learn about Python basics!
 
 ## Step 1 - Learning the Language
-Create an account on ![CodeCademy](https://www.codecademy.com/) and login. Navigate to the lessons on ![Python](https://www.codecademy.com/learn/learn-python).
-
-![pythoncodecademy](https://github.com/mitchpehora/learnPython/blob/master/images/Screen%20Shot%202017-09-22%20at%2012.33.43%20PM.png?raw=true)
-
-Work through these tutorials. If you've programmed before, a lot of it won't be new to you. However, it's always a good idea to make sure you know the proper syntax when learning a new language. 
+Today we will be learning python!
 
 ## Step 2 - Get a Compiler
 Once you've got the basics of Python down, it's time to pick a ![compiler](https://en.wikipedia.org/wiki/Compiler). You can either use ![Repl.it](https://repl.it/languages/python3), an online IDE for Python, or the ![standalone Python IDLE](https://www.python.org/downloads/). Note that we're using Python 3. If you've never programmed before, we reccomend using Repl.it
