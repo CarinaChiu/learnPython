@@ -5,7 +5,7 @@ Learn about Python basics!
 Today we will be learning python!
 
 ## Step 2 - Get a Compiler
-Once you've got the basics of Python down, it's time to pick a [compiler](https://en.wikipedia.org/wiki/Compiler). You can either use ![Repl.it](https://repl.it/languages/python3), an online IDE for Python, or the [standalone Python IDLE](https://www.python.org/downloads/). Note that we're using Python 3. If you've never programmed before, we reccomend using Repl.it
+Once you've got the basics of Python down, it's time to pick a [compiler](https://en.wikipedia.org/wiki/Compiler). You can either use [Repl.it](https://repl.it/languages/python3), an online IDE for Python, or the [standalone Python IDLE](https://www.python.org/downloads/). Note that we're using Python 3. If you've never programmed before, we reccomend using Repl.it
 
 If you want something a bit more heavy you can use [Anaconda](https://www.anaconda.com/download/) which comes with a ton of packages, an IDE, and is easy to update and add more packages you like. It is compatiable with other IDEs than the one provided if you decide you dont like the one it comes with. 
 
