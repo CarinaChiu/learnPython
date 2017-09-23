@@ -29,5 +29,8 @@ As long as you still remember a little bit, you're fine. Poke around on [Intro T
 ## Step 4 - Try a Challenge
 We've prepared some challenges for you! The ones at the top are the easiest, the ones at the bottom more difficult.
 
+[madlibs](https://repl.it/teacher/assignments/431325)
+
 [y=mx+b](https://repl.it/teacher/assignments/427752)
+
 [Earthquake Mapping](http://introtopython.org/visualization_earthquakes.html)
