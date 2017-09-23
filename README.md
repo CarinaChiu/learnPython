@@ -5,7 +5,7 @@ Learn about Python basics!
 Today we will be learning python!
 
 ## Step 2 - Get a Compiler
-Once you've got the basics of Python down, it's time to pick a ![compiler](https://en.wikipedia.org/wiki/Compiler). You can either use ![Repl.it](https://repl.it/languages/python3), an online IDE for Python, or the ![standalone Python IDLE](https://www.python.org/downloads/). Note that we're using Python 3. If you've never programmed before, we reccomend using Repl.it
+Once you've got the basics of Python down, it's time to pick a [compiler](https://en.wikipedia.org/wiki/Compiler). You can either use ![Repl.it](https://repl.it/languages/python3), an online IDE for Python, or the [standalone Python IDLE](https://www.python.org/downloads/). Note that we're using Python 3. If you've never programmed before, we reccomend using Repl.it
 
 If you want something a bit more heavy you can use [Anaconda](https://www.anaconda.com/download/) which comes with a ton of packages, an IDE, and is easy to update and add more packages you like. It is compatiable with other IDEs than the one provided if you decide you dont like the one it comes with. 
 
@@ -16,7 +16,7 @@ You can now get started writing your own programs!
 #### Writing Programs with Repl.it
 Writing programs with Repl.it is incredibly easy. Type your program on the left and hit *run ►* once you're ready to go!
 
-![writewithRepl.it](https://github.com/mitchpehora/learnPython/blob/master/images/Screen%20Shot%202017-09-22%20at%201.02.57%20PM.png?raw=true)
+[writewithRepl.it](https://github.com/mitchpehora/learnPython/blob/master/images/Screen%20Shot%202017-09-22%20at%201.02.57%20PM.png?raw=true)
 
 #### Writing Programs with IDLE
 While it's still pretty easy to write programs in Python, it still requires some extra steps compared to Repl.it. Open up Python IDLE. Go to *File → New Program* and Python will create a new *.py* file for you to enter code into. Once you're satisfied with your code, go to *Run → Run Module*. Note that if you're using OS X, you might need to make sure you open any *.py* files with IDLE, not with Xcode.
